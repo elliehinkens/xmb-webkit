@@ -7,11 +7,11 @@ Config utilities are in [wxPython](http://xpython.org) and compiled with [PyInst
 Video:
 [![Using Skraper](https://img.youtube.com/vi/dTEJ7UbyBCg/0.jpg)](https://www.youtube.com/watch?v=dTEJ7UbyBCg)
 
-[Live Demo](https://addison-io.github.io/xmb-example/)
+[Live Demo](https://elliehinkens.github.io/xmb-browser/)
 
 # How to Install
 
-Download [XMB_Setup.exe](https://github.com/addison-io/xmb-webkit/releases/) and run the installer.
+Download [XMB_Setup.exe](https://github.com/elliehinkens/xmb-webkit/releases/) and run the installer.
 
 # Controls
 Arrow keys to navigate, Enter to select item, ESC key to exit.
